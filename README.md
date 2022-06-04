@@ -1,1 +1,1 @@
-<p>belaar di git stgae</p>
+<p>belajar di git stage</p>
